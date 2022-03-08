@@ -1,5 +1,4 @@
-![WhatsApp Image 2022-02-22 at 11 58 03 (1)](https://user-images.githubusercontent.com/89881486/157322714-7a64bf05-9042-46fa-ba6c-1bac735c13aa.jpeg)
-
+PROJETO: HORA DO BANHO
 
 `ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
