@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+![WhatsApp Image 2022-02-22 at 11 58 03 (1)](https://user-images.githubusercontent.com/89881486/157322714-7a64bf05-9042-46fa-ba6c-1bac735c13aa.jpeg)
 
-`CURSO`
 
-`DISCIPLINA`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`SEMESTRE`
+`Projeto: Desenvolvimento de Aplicação Web Back-End`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+`2º SEMESTRE`
+
+O referido projeto trata de uma ferramenta que possibilita aos proprietários de cães e gatos acessarem (e marcarem) horário de banho para os seus animais.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Crislaine
+* Eduardo Aguilar
+* Gabriel
+* Oscar
+* Pamela Crivellari Viana
+* Patricia Freitas
 
 ## Orientador
 
-* Nome completo do professor 1
+* Luciana de Nardin
 
 ## Instruções de utilização
 
