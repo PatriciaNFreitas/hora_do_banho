@@ -6,10 +6,10 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-|Oscar Gabriel Braga |-----|-----|
+|Oscar Gabriel Braga |||
 |---------|------------|------------|
-|![persona 1](https://user-images.githubusercontent.com/89881486/157549062-7375fdec-a188-4cb3-a1c6-4d2c9251b7c0.jpg)|Idade: 42 anos Ocupação: Enfermeiro|Aplicativos:|
-|Motivações|Frustrações|Hobbies|
+|![persona 1](https://user-images.githubusercontent.com/89881486/157549062-7375fdec-a188-4cb3-a1c6-4d2c9251b7c0.jpg)|Idade: 42 anos Ocupação: Enfermeiro|Aplicativos: Instagram, Facebook, Youtube |
+|Motivações: Cuidar de pessoas, família |Frustrações: Buscar por serviços que possam atender suas necessidades de última hora ou em um curto prazo. |Hobbies: Viajar, ler, lazer com a família. |
 
 
 > **Links Úteis**:
