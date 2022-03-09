@@ -7,6 +7,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 ## Personas
 
 |Oscar Gabriel Braga |-----|-----|
+|---------|------------|------------|
 |![persona 1](https://user-images.githubusercontent.com/89881486/157549062-7375fdec-a188-4cb3-a1c6-4d2c9251b7c0.jpg)|Idade: 42 anos Ocupação: Enfermeiro|Aplicativos:|
 |Motivações|Frustrações|Hobbies|
 
