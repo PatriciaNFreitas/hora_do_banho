@@ -11,6 +11,23 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 |![persona 1](https://user-images.githubusercontent.com/89881486/157549062-7375fdec-a188-4cb3-a1c6-4d2c9251b7c0.jpg)|**Idade**: 42 anos **Ocupação**: Enfermeiro|**Aplicativos**: Instagram, Facebook, Youtube |
 |**Motivações**: Cuidar de pessoas, família |**Frustrações**: Buscar por serviços que possam atender suas necessidades de última hora ou em um curto prazo. |**Hobbies**: Viajar, ler, lazer com a família. |
 
+|**Pamela Viana** |||
+|---------|------------|------------|
+|![persona 2](https://user-images.githubusercontent.com/89881486/157760108-0fe75f91-1862-4971-beb4-a5eb92c2ad0b.jpg)|
+|**Idade**: 34 anos **Ocupação**: Médica Veterinária|**Aplicativos**: Instagram, Facebook, LinkedIn, Youtube |
+|**Motivações**: Flexibilidade de horários, "ganhar tempo". |**Frustrações**: Não conseguir dar conta de todas as tarefas do dia a dia. |**Hobbies**: Podcasts, livros, passear com os cachorros. |
+
+|**João da Silva** |||
+|---------|------------|------------|
+|![persona 2](https://user-images.githubusercontent.com/89881486/157760108-0fe75f91-1862-4971-beb4-a5eb92c2ad0b.jpg)|
+|**Idade**: 38 anos **Ocupação**:  Proprietário do Pet Shop Auquimia|**Aplicativos**: Instagram e Facebook.  |
+|**Motivações**: Aumentar o faturamento de seu negócio.  |**Frustrações**: Não conseguir atingir todos os seus clientes potenciais.  |**Hobbies**: Estudar, ler, assistir séries e viajar.|
+
+|**Joana Oliveira** |||
+|---------|------------|------------|
+|![persona 4](https://user-images.githubusercontent.com/89881486/157760842-3adb14c3-f2ef-40e0-ae26-29041ea24f25.jpg)|
+|**Idade**: 45 anos **Ocupação**:  Proprietário do Pet 4 Patas|**Aplicativos**: Instagram e Youtube.  |
+|**Motivações**: Expandir o negócio e potencializar a divulgação dos serviços prestados.  |**Frustrações**: Loja não fica em um ponto com boa visibilidade.   |**Hobbies**: Praticar esportes|
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
@@ -20,7 +37,6 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 > - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
 > - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
 >
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
