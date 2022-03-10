@@ -13,20 +13,17 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 |**Pamela Viana** |||
 |---------|------------|------------|
-|FOTO
-|**Idade**: 34 anos **Ocupação**: Médica Veterinária|**Aplicativos**: Instagram, Facebook, LinkedIn, Youtube |
+|FOTO|**Idade**: 34 anos **Ocupação**: Médica Veterinária|**Aplicativos**: Instagram, Facebook, LinkedIn, Youtube |
 |**Motivações**: Flexibilidade de horários, "ganhar tempo". |**Frustrações**: Não conseguir dar conta de todas as tarefas do dia a dia. |**Hobbies**: Podcasts, livros, passear com os cachorros. |
 
 |**João da Silva** |||
 |---------|------------|------------|
-|FOTO|
-|**Idade**: 38 anos **Ocupação**:  Proprietário do Pet Shop Auquimia|**Aplicativos**: Instagram e Facebook.  |
+|FOTO|**Idade**: 38 anos **Ocupação**:  Proprietário do Pet Shop Auquimia|**Aplicativos**: Instagram e Facebook.  |
 |**Motivações**: Aumentar o faturamento de seu negócio.  |**Frustrações**: Não conseguir atingir todos os seus clientes potenciais.  |**Hobbies**: Estudar, ler, assistir séries e viajar.|
 
 |**Joana Oliveira** |||
 |---------|------------|------------|
-|FOTO|
-|**Idade**: 45 anos **Ocupação**:  Proprietário do Pet 4 Patas|**Aplicativos**: Instagram e Youtube.  |
+|FOTO|**Idade**: 45 anos **Ocupação**:  Proprietário do Pet 4 Patas|**Aplicativos**: Instagram e Youtube.  |
 |**Motivações**: Expandir o negócio e potencializar a divulgação dos serviços prestados.  |**Frustrações**: Loja não fica em um ponto com boa visibilidade.   |**Hobbies**: Praticar esportes|
 
 > **Links Úteis**:
