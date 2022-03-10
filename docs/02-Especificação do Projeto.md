@@ -13,7 +13,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 |**Pamela Viana** |||
 |---------|------------|------------|
-|FOTO|
+|FOTO
 |**Idade**: 34 anos **Ocupação**: Médica Veterinária|**Aplicativos**: Instagram, Facebook, LinkedIn, Youtube |
 |**Motivações**: Flexibilidade de horários, "ganhar tempo". |**Frustrações**: Não conseguir dar conta de todas as tarefas do dia a dia. |**Hobbies**: Podcasts, livros, passear com os cachorros. |
 
