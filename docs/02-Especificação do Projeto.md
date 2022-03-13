@@ -6,22 +6,22 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-|**Oscar Gabriel Braga** |||
+|**Oscar Gabriel Braga**|||
 |---------|------------|------------|
 |FOTO|**Idade**: 42 anos **Ocupação**: Enfermeiro|**Aplicativos**: Instagram, Facebook, Youtube |
 |**Motivações**: Cuidar de pessoas, família |**Frustrações**: Buscar por serviços que possam atender suas necessidades de última hora ou em um curto prazo. |**Hobbies**: Viajar, ler, lazer com a família. |
 
-|**Pamela Viana** |||
+|**Pamela Viana**|||
 |---------|------------|------------|
 |FOTO|**Idade**: 34 anos **Ocupação**: Médica Veterinária|**Aplicativos**: Instagram, Facebook, LinkedIn, Youtube |
 |**Motivações**: Flexibilidade de horários, "ganhar tempo". |**Frustrações**: Não conseguir dar conta de todas as tarefas do dia a dia. |**Hobbies**: Podcasts, livros, passear com os cachorros. |
 
-|**João da Silva** |||
+|**João da Silva**|||
 |---------|------------|------------|
 |FOTO|**Idade**: 38 anos **Ocupação**:  Proprietário do Pet Shop Auquimia|**Aplicativos**: Instagram e Facebook.  |
 |**Motivações**: Aumentar o faturamento de seu negócio.  |**Frustrações**: Não conseguir atingir todos os seus clientes potenciais.  |**Hobbies**: Estudar, ler, assistir séries e viajar.|
 
-|**Joana Oliveira** |||
+|**Joana Oliveira**|||
 |---------|------------|------------|
 |FOTO|**Idade**: 45 anos **Ocupação**:  Proprietário do Pet 4 Patas|**Aplicativos**: Instagram e Youtube.  |
 |**Motivações**: Expandir o negócio e potencializar a divulgação dos serviços prestados.  |**Frustrações**: Loja não fica em um ponto com boa visibilidade.   |**Hobbies**: Praticar esportes|
@@ -67,30 +67,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| A aplicação deve permitir gerenciar pet shops. | ALTA | 
+|RF-002| A aplicação deve permitir gerenciar clientes. | ALTA |
+|RF-003| O Sistema deve permitir o agendamento de horários para serviços. | ALTA |
+|RF-004| O Sistema deve permitir o cadastro de agenda de datas disponiveis e indisponiveis dos Pet Shops. | ALTA |
+|RF-005| O Sistema deve fornecer ao usuário uma mensagem de confirmação do agendamento por SMS. | BAIXA |
+|RF-006| O Sistema deve permitir aos pet shops e clientes a consulta aos agendamentos. | MÉDIA |
+|RF-007| O Sistema deve permitir ao cliente a visualização de datas disponiveis para o agendamento do serviço. | ALTA |
+|RF-008| O Sistema deve mostrar o preço do serviço informado pelo Pet Shop. | ALTA |
+ 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| O sistema deve ser implementado na linguagem C#, html, CSS e Java Script. | ALTA | 
+|RNF-002| As informações de cadastro do cliente devem ficar disponiveis apenas para os clientes e para a plataforma. | ALTA |
+|RNF-003| O site deve estar disponível para os principais navegadores: Chrome, Firefox, Edge. | ALTA |
+|RNF-004| O sistemae deve estar disponivel 24 horas por dia, os sete dias da semana. | ALTA |
+|RNF-005| O site deve ser responsivo, compativel a qualquer tipo de aparelho. Ex: Notebook, tablet, celular. | ALTA |
 
 ## Restrições
 
