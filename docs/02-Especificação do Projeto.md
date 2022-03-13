@@ -37,12 +37,18 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários. 
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Oscar Gabriel Braga | Visualizar Petshops pertos da minha casa | Não perder muito tempo de locomoção |
+|Oscar Gabriel Braga | Um site em que eu possa fazer agendamentos em petshop | Quero uma certa comodidade, já que eu não tenho tanto tempo sobrando no dia a dia |
+|Pamela Viana | Não ter que ligar com antecedência para Pet Shops para marcar banho e tosa para os meus cachorros | Sempre me esqueço de ligar, só faço no momento que preciso. |
+|Pamela Viana | Uma ferramenta que me ajude a conhecer os serviços de banho e tosa da região. | Me mudei há pouco tempo, e não conheço o bairro. |
+|João da Silva | Gostaria de ter um site em que eu possa disponibilizar meus serviços | Para que meu estabelecimento tenha mais visibilidade |
+|João da Silva | Quero um sistema que gere as informações dos meus clientes | Me organizar de melhor forma a não perder informações e históricos dos clientes |
+|Joana Oliveira | Expandir meu negócio na internet | Para atender de forma mais cômoda os clientes |
+|Joana Oliveira | Quero ter um volume de vendas maior e de forma eficiente | Para poder me adequar ao mercado digital e trazer mais clientes para a loja |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
