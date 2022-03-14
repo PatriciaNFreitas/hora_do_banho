@@ -15,7 +15,7 @@ O referido projeto trata de uma ferramenta que possibilita aos proprietários de
 * Gabriel Judá de Oliveira
 * Oscar
 * Pamela Crivellari Viana
-* Patricia Freitas
+* Patricia Nascimento Freitas
 
 ## Orientador
 
